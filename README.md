@@ -1,1 +1,0 @@
-# hexo-theme-alpha-next
